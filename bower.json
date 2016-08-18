@@ -1,0 +1,17 @@
+{
+    "name": "gorditas-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Gustavo Dipre"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/gorditas-bower.git"
+    },
+    "description": "Gorditas font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
